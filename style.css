@@ -1,0 +1,21 @@
+ /* Apply a full background color to the body element */
+body {
+    background-color: rgb(255, 255, 255);  /* Set the background color */
+    color: rgb(143, 130, 239);                /* Set the text color */
+    margin: 0;                    /* Remove default margin */
+    padding: 0;                   /* Remove default padding */
+    font-family: Arial, sans-serif; /* Optional: set a default font */
+}
+
+
+#ball {     
+    float: left;
+}
+
+#description {
+    float: right;
+}
+
+#reviews {
+    clear: both;
+}
